@@ -3,7 +3,7 @@
     "enable-vision": true,
     "keys": {
         "openai": [
-            "sk-1234567890"
+            "sk-iyfvfedsmhlxrmuioqcnktozvmawhsytxngtdlqfpikfnoes"
         ],
         "anthropic": [
             "sk-1234567890"
@@ -12,7 +12,7 @@
             "sk-1234567890"
         ],
         "deepseek": [
-            "sk-1234567890"
+            "sk-iyfvfedsmhlxrmuioqcnktozvmawhsytxngtdlqfpikfnoes"
         ],
         "gitee-ai": [
             "XXXXX"
@@ -24,7 +24,7 @@
             "xxxxxxx"
         ],
         "siliconflow": [
-            "xxxxxxx"
+            "sk-iyfvfedsmhlxrmuioqcnktozvmawhsytxngtdlqfpikfnoes"
         ]
     },
     "requester": {
@@ -81,7 +81,7 @@
             "timeout": 120
         }
     },
-    "model": "gpt-4o",
+    "model": "deepseek-ai/DeepSeek-R1",
     "prompt-mode": "normal",
     "prompt": {
         "default": "" 
