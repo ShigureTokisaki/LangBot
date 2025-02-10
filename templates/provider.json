@@ -2,7 +2,10 @@
     "enable-chat": true,
     "enable-vision": true,
     "keys": {
-        "openai": [
+        "deepseek": [
+            "sk-a57695a979f543e981f28732eacaff9e"
+        ],
+        "siliconflow": [
             "sk-iyfvfedsmhlxrmuioqcnktozvmawhsytxngtdlqfpikfnoes"
         ]
     },
@@ -16,9 +19,14 @@
             "base-url": "https://api.siliconflow.cn/v1",
             "args": {},
             "timeout": 120
+        },
+        "deepseek-chat-completions": {
+            "base-url": "https://api.deepseek.com",
+            "args": {},
+            "timeout": 120
         }
     },
-    "model": "default",
+    "model": "deepseek-reasoner",
     "prompt-mode": "normal",
     "prompt": {
         "default": "" 
