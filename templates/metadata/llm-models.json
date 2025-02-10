@@ -211,6 +211,12 @@
             "requester": "zhipuai-chat-completions",
             "token_mgr": "zhipuai",
             "vision_supported": true
+        },
+        {
+            "name": "DeepSeek-R1",
+            "requester": "siliconflow-chat-completions",
+            "token_mgr": "siliconflow",
+            "vision_supported": true
         }
     ]
 }
