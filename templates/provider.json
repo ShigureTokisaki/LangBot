@@ -2,7 +2,7 @@
     "enable-chat": true,
     "enable-vision": true,
     "keys": {
-        "siliconflow": [
+        "openai": [
             "sk-iyfvfedsmhlxrmuioqcnktozvmawhsytxngtdlqfpikfnoes"
         ]
     },
