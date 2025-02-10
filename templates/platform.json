@@ -47,9 +47,9 @@
         {
             "adapter": "lark",
             "enable": true,
-            "app_id": "cli_abcdefgh",
-            "app_secret": "XXXXXXXXXX",
-            "bot_name": "LangBot"
+            "app_id": "cli_a7e4dba2b772501c",
+            "app_secret": "MBDEK6cZKJaPRr3YaZp9fKDKHTcRorBt",
+            "bot_name": "Deepseek"
         },
         {
             "adapter": "discord",
