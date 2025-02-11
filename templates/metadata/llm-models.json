@@ -215,7 +215,8 @@
         {
             "name": "deepseek-ai/DeepSeek-R1",
             "requester": "siliconflow-chat-completions",
-            "token_mgr": "siliconflow" 
+            "token_mgr": "siliconflow",
+            "tool_call_supported": true
         }
     ]
 }
