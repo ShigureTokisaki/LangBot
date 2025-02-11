@@ -213,10 +213,9 @@
             "vision_supported": true
         },
         {
-            "name": "DeepSeek-R1",
+            "name": "deepseek-ai/DeepSeek-R1",
             "requester": "siliconflow-chat-completions",
-            "token_mgr": "siliconflow",
-            "vision_supported": true
+            "token_mgr": "siliconflow" 
         }
     ]
 }
